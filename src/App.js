@@ -8,6 +8,7 @@ export default function App() {
     <div className="App">
       <BoasVindas />
       <Ninja />
+      <h3>Esse é o meu primeiro deploy</h3>
     </div>
   );
 }
