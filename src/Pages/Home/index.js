@@ -15,6 +15,10 @@ export default function Home() {
             <Link to="/pagina3"> Ir para página3 </Link>
             <br />
             <Link to="/pagina4"> Ir para página4 </Link>
+            <br />
+            <Link to="/pagina5"> Ir para página5 </Link>
+            <br />
+            <Link to="/pagina6"> Ir para página6 </Link>
             
         </div>
     )
